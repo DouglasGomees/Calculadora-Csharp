@@ -1,0 +1,13 @@
+C:\Users\saodpere\source\repos\Calc_Douglas_Final\Calc_Douglas_Final\bin\Debug\netcoreapp3.1\Calc_Douglas_Final.exe
+C:\Users\saodpere\source\repos\Calc_Douglas_Final\Calc_Douglas_Final\bin\Debug\netcoreapp3.1\Calc_Douglas_Final.deps.json
+C:\Users\saodpere\source\repos\Calc_Douglas_Final\Calc_Douglas_Final\bin\Debug\netcoreapp3.1\Calc_Douglas_Final.runtimeconfig.json
+C:\Users\saodpere\source\repos\Calc_Douglas_Final\Calc_Douglas_Final\bin\Debug\netcoreapp3.1\Calc_Douglas_Final.runtimeconfig.dev.json
+C:\Users\saodpere\source\repos\Calc_Douglas_Final\Calc_Douglas_Final\bin\Debug\netcoreapp3.1\Calc_Douglas_Final.dll
+C:\Users\saodpere\source\repos\Calc_Douglas_Final\Calc_Douglas_Final\bin\Debug\netcoreapp3.1\Calc_Douglas_Final.pdb
+C:\Users\saodpere\source\repos\Calc_Douglas_Final\Calc_Douglas_Final\obj\Debug\netcoreapp3.1\Calc_Douglas_Final.csprojAssemblyReference.cache
+C:\Users\saodpere\source\repos\Calc_Douglas_Final\Calc_Douglas_Final\obj\Debug\netcoreapp3.1\Calc_Douglas_Final.AssemblyInfoInputs.cache
+C:\Users\saodpere\source\repos\Calc_Douglas_Final\Calc_Douglas_Final\obj\Debug\netcoreapp3.1\Calc_Douglas_Final.AssemblyInfo.cs
+C:\Users\saodpere\source\repos\Calc_Douglas_Final\Calc_Douglas_Final\obj\Debug\netcoreapp3.1\Calc_Douglas_Final.csproj.CoreCompileInputs.cache
+C:\Users\saodpere\source\repos\Calc_Douglas_Final\Calc_Douglas_Final\obj\Debug\netcoreapp3.1\Calc_Douglas_Final.dll
+C:\Users\saodpere\source\repos\Calc_Douglas_Final\Calc_Douglas_Final\obj\Debug\netcoreapp3.1\Calc_Douglas_Final.pdb
+C:\Users\saodpere\source\repos\Calc_Douglas_Final\Calc_Douglas_Final\obj\Debug\netcoreapp3.1\Calc_Douglas_Final.genruntimeconfig.cache
